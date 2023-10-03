@@ -1,22 +1,19 @@
 /*
 Problem Statement:
-
-You are given an array of integers nums and an integer target. Your task is to find and return a pair of distinct indices (i, j) from the nums array such that nums[i] + nums[j] equals the given target. It is guaranteed that there is exactly one solution for this problem, and each element of the array can only be used once.
+You are given an array of integers nums and an integer target.
+Your task is to find and return a pair of distinct indices (i, j) from the nums array such that nums[i] + nums[j] equals the given target.
+It is guaranteed that there is exactly one solution for this problem, and each element of the array can only be used once.
 
 Return the indices (i, j) as an array, and the order of the indices does not matter.
 
 Example:
-
 Input:
-
 nums = [2, 7, 11, 15], target = 9
 
 Output:
-
 [0, 1]
 
 Explanation:
-
 In the given nums array, nums[0] (which is 2) and nums[1] (which is 7) add up to the target value of 9, so the function returns [0, 1].
 */
 
